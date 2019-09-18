@@ -1,4 +1,4 @@
-<a href="https://bigthink.com/">Big Think</a> podcasts.<br>
+<a href="https://bigthink.com/">Big Think</a> audio and video podcasts.<br>
 
 <a href="kodi.tv">KODI<a> / XBMC / Firestick addon for the <a href="https://bigthink.com/">Big Think</a> audio and video podcasts.<br>
 
