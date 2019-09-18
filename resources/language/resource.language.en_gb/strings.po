@@ -22,11 +22,11 @@ msgctxt "#30001"
 msgid "Latest Big Think"
 msgstr ""
 
-msgctxt "#30002"
+msgctxt "#30003"
 msgid "All Think Again"
 msgstr ""
 
-msgctxt "#30003"
+msgctxt "#30002"
 msgid "Latest Think Again"
 msgstr ""
 
