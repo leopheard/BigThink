@@ -1,6 +1,6 @@
 <a href="https://bigthink.com/">Big Think</a> podcasts.<br>
 
-<a href="kodi.tv">KODI<a> / XBMC / Firestick addon for the <a href="https://bigthink.com/">Big Think</a> podcasts.<br>
+<a href="kodi.tv">KODI<a> / XBMC / Firestick addon for the <a href="https://bigthink.com/">Big Think</a> audio and video podcasts.<br>
 
 <a href="https://bigthink.com/podcast/">Big Think</a> is the ultimate video podcast guide to success in the 21st century. Each month Big Think’s experts like Dr. Michio Kaku, Bill Nye, Neil deGrasse Tyson and many others offer clear and actionable lessons that help you develop the tools to master your future.<br>
 
